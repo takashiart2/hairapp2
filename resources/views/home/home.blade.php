@@ -9,6 +9,8 @@
         <link rel="stlylesheet" href="css/style.css">
     </head>
     <body>
+        <header class="header">
+        </header>
         <h1>HairApp</h1>
     </body>
 </html>
